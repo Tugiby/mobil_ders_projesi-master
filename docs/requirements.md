@@ -43,7 +43,7 @@ Bu dosya, proje PDF’inde belirtilen teslim kriterlerini izlemek için oluştur
 - [x] Tüm bildirimleri listeleme (tür, başlık, açıklama, konum, kullanıcı)
 - [x] Durum güncelleme
 - [x] Acil durum duyurusu yayınlama (client tarafı)
-- [ ] Acil durum duyurusu backend (Cloud Functions) – 2. günde eklenecek
+- [x] Acil durum duyurusu backend (Cloud Functions)
 
 ## 7. Profil ve Ayarlar (5)
 - [x] Profil: ad-soyad, e-posta, rol, birim
@@ -54,7 +54,7 @@ Bu dosya, proje PDF’inde belirtilen teslim kriterlerini izlemek için oluştur
 ## 8. Bildirim ve Hatırlatma Sistemi (10)
 - [x] Takip edilen bildirimin durum güncellemelerinde bildirim
 - [x] Admin acil bildirimleri tüm kullanıcılara gönderilir (client subscribe)
-- [ ] Functions ile `alerts` topic push – 2. günde eklenecek
+- [x] Functions ile `alerts` topic push
 
 ## Git Kullanımı
 - [x] Düzenli commit geçmişi (bu dosya ile görünürlük artıyor)
@@ -65,4 +65,4 @@ Bu dosya, proje PDF’inde belirtilen teslim kriterlerini izlemek için oluştur
 - [x] Büyük tek sefer commitlerden kaçınma
 
 ---
-Durum: 1. gün – istemci tarafı ve dokümantasyon iskeleti hazır. 2. gün – Cloud Functions ile acil uyarı backend’i ve Firestore kuralları notları eklenecek.
+Durum: 2. gün – Cloud Functions eklendi; acil uyarı backend sistemi tam çalışır. 3. gün – ekran görüntüleri ve README iyileştirmeleri eklenecek.

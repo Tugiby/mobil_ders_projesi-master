@@ -34,3 +34,4 @@ Pop-Location
 - Gereksinimler ve PDF özeti: `docs/requirements.md`
 - Mimari özeti: `docs/architecture.md`
 - Ekran listesi: `docs/screens.md`
+- Acil uyarı sistemi: `docs/alerts.md`
