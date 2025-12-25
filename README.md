@@ -20,11 +20,21 @@ Uygulama, Firebase Authentication ile e-posta/şifre girişi ve kayıt akışın
 	Bu komut `lib/firebase_options.dart` dosyasını üretir; isterseniz `Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform)` kullanacak şekilde `lib/main.dart` dosyasını güncelleyebilirsiniz.
 
 ## Çalıştırma
-```powershell
-Push-Location 'D:\Yazilim\mobile_project'
+
+### Hızlı Başlangıç
+```bash
+flutter pub get
 flutter run
-Pop-Location
 ```
+
+### Android Release APK
+```bash
+flutter build apk --release
+# Çıktı: build/app/outputs/flutter-apk/app-release.apk
+```
+
+### Deployment Detayları
+Bkz. [docs/deployment.md](docs/deployment.md) – Android, iOS, Web, Cloud Functions, Firestore Rules.
 
 ## Notlar
 - Şifre sıfırlama, Firebase üzerinden e-posta gönderir.
@@ -35,3 +45,6 @@ Pop-Location
 - Mimari özeti: `docs/architecture.md`
 - Ekran listesi: `docs/screens.md`
 - Acil uyarı sistemi: `docs/alerts.md`
+- Deployment rehberi: `docs/deployment.md`
+- Test rehberi: `docs/testing.md`
+- Ekran görüntüleri: `screenshots/README.md`

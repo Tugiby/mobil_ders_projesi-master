@@ -10,4 +10,4 @@
 - (Admin) Kullanıcı Yönetimi: rol değişimi (admin/user)
 - (Admin) Panel: tüm bildirimler (listede gösterim); durum güncelleme
 
-Ekran görüntüleri klasörü: `screenshots/` (2.-3. gün eklenecek)
+Ekran görüntüleri: [`screenshots/`](../screenshots/README.md) klasöründe her ekranın screenshot'ı ve alım kılavuzu.

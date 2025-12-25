@@ -65,4 +65,4 @@ Bu dosya, proje PDF’inde belirtilen teslim kriterlerini izlemek için oluştur
 - [x] Büyük tek sefer commitlerden kaçınma
 
 ---
-Durum: 2. gün – Cloud Functions eklendi; acil uyarı backend sistemi tam çalışır. 3. gün – ekran görüntüleri ve README iyileştirmeleri eklenecek.
+Durum: 3. gün – Deployment rehberi, test senaryoları, screenshot listesi eklendi. 4. gün – UI türkçeleştirme ve iyileştirmeler eklenecek.
