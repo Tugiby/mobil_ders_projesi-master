@@ -65,4 +65,4 @@ Bu dosya, proje PDF’inde belirtilen teslim kriterlerini izlemek için oluştur
 - [x] Büyük tek sefer commitlerden kaçınma
 
 ---
-Durum: 3. gün – Deployment rehberi, test senaryoları, screenshot listesi eklendi. 4. gün – UI türkçeleştirme ve iyileştirmeler eklenecek.
+Durum: 4. gün – UI Türkçeleştirme ve metin iyileştirmeleri tamamlandı. 5. gün – son kontroller ve teslim hazırlığı.
