@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "745268304902",
-    "firebase_url": "https://mobilprojesi1-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "mobilprojesi1",
-    "storage_bucket": "mobilprojesi1.firebasestorage.app"
+    "project_number": "113535311804",
+    "project_id": "mobilprojesi1-8fe81",
+    "storage_bucket": "mobilprojesi1-8fe81.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:745268304902:android:9a92e38113becd338b7787",
+        "mobilesdk_app_id": "1:113535311804:android:19ab2de9934cf289ea15b9",
         "android_client_info": {
           "package_name": "com.example.mobile_project"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCe2i884e6rEJfmrWDltqb4rAzs52xb5Ds"
+          "current_key": "AIzaSyBTj4oLW8B9gw5rg647-4yRX-xMYwD87_E"
         }
       ],
       "services": {
