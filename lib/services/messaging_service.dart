@@ -171,7 +171,7 @@ class MessagingService {
             .collection('reports')
             .doc(reportId)
             .get();
-        final data = snap.data() as Map<String, dynamic>?;
+        final data = snap.data();
         if (data != null) {
           final gp = data['location'];
           final ts = data['createdAt'];
