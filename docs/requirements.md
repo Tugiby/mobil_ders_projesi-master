@@ -56,13 +56,8 @@ Bu dosya, proje PDF’inde belirtilen teslim kriterlerini izlemek için oluştur
 - [x] Admin acil bildirimleri tüm kullanıcılara gönderilir (client subscribe)
 - [x] Functions ile `alerts` topic push
 
-## Git Kullanımı
-- [x] Düzenli commit geçmişi (bu dosya ile görünürlük artıyor)
-- [x] Adım adım ilerleme – 5 güne yayılan push planı
+
 
 ## Yapay Zeka Kullanımı
-- [x] Kod üretmeden, danışma amaçlı destek (açıklamalar, planlama)
-- [x] Büyük tek sefer commitlerden kaçınma
+- [x] Kod üretmeden, danışma amaçlı destek (açıklamalar, planlama.
 
----
-Durum: 4. gün – UI Türkçeleştirme ve metin iyileştirmeleri tamamlandı. 5. gün – son kontroller ve teslim hazırlığı.
